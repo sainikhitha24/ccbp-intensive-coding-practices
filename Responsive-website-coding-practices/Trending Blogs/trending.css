@@ -1,0 +1,28 @@
+.heading {
+  color: #1f2933;
+  font-family: roboto;
+  font-weight: 700;
+}
+
+.card-heading {
+  color: #959ead;
+  font-size: 20px;
+}
+
+.card-para {
+  color: #323f4b;
+  font-family: roboto;
+  font-size: 20px;
+}
+
+.ref {
+  color: #1754a1;
+  font-weight: bold;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #1754a1;
+  padding: 10px;
+  width: 100px;
+}

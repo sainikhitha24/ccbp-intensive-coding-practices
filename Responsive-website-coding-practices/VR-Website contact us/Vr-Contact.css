@@ -1,0 +1,22 @@
+.bg {
+  background-color: #222b36;
+  height: 100vh;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 35px;
+}
+
+.image {
+  height: 180px;
+  width: 200px;
+}
+
+.button {
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 0px;
+  border-style: solid;
+  border-color: #ffffff;
+}

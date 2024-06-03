@@ -1,0 +1,18 @@
+.heading {
+  color: #1f2933;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.para {
+  color: #7b8794;
+  font-family: Roboto;
+  font-size: 17px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #1a2137;
+  border-radius: 5px;
+}

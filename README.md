@@ -1,1 +1,0 @@
-# ccbp-intensive-coding-practices
