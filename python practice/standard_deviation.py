@@ -1,3 +1,12 @@
+# The function accepts an array dataSet of m positive integers and an integer m as its arguments.
+
+# You are required to calculate the Standard deviation of m positive integers in the array.
+
+
+# Let sqrt(y) be square root of a positive integer 'y'.
+
+
+
 def calcStandardDeviation(dataSet , m):
     sum = 0
     for i in dataSet:
